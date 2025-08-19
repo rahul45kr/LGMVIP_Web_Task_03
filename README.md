@@ -1,3 +1,5 @@
+<img width="1366" height="738" alt="Registartion form" src="https://github.com/user-attachments/assets/83ac153d-079b-4491-92ae-0a50f45a0a6b" />
+
 # Registration Form
 
 This is a simple registration form made with HTML, CSS, and JavaScript.  
